@@ -1,0 +1,21 @@
+diff a/2 b/2	(rejected hunks)
+@@ -2,14 +2,16 @@
+ cmd/
+ dev/
+ etc/
+-git-bash.exe*
+ git-cmd.exe*
+ LICENSE.txt
+ mingw64/
+ proc/
+ ReleaseNotes.html
+ tmp/
+-unins000.dat
++unins100.dat
+ unins000.exe*
+ unins000.msg
+ usr/
++ddd
++ddd
++ddd
+\ No newline at end of file

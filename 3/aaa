@@ -1,0 +1,14 @@
+$RECYCLE.BIN/
+$WinREAgent/
+Documents and Settings@
+Intel/
+pagefile.sys
+Program Files/
+Program Files (x86)/
+ProgramData/
+Recovery/
+swapfile.sys
+System Volume Information/
+Temp/
+Users/
+Windows/
